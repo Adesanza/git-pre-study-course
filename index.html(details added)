@@ -11,11 +11,11 @@
     <table class="table">
         <thead>
             <tr>
-                <th>Badmus Adeshina Farouk</th>
-                <th>Falz</th>
-                <th>Lagos State</th>
-                <th>monisola</th>
-                <th>Male</th>
+                <th>Full Name</th>
+                <th>Fvourite Artist</th>
+                <th>State of Origin</th>
+                <th>Number of Siblings</th>
+                <th>Gender</th>
             </tr>
         </thead>
         <tbody>
