@@ -29,10 +29,10 @@
             </tr>
             <!--            second person -->
             <tr>
-                <td>Adeshina Badmus</td>
-                <td>Drake</td>
-                <td>Lagos State</td>
-                <td>4</td>
+                <td>Full Name</td>
+                <td>Artist</td>
+                <td>State</td>
+                <td>Number of Siblings</td>
                 <td><a class="btn btn__female">Female</a></td>
             </tr>
         </tbody>
