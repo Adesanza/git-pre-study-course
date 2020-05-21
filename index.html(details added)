@@ -12,7 +12,7 @@
         <thead>
             <tr>
                 <th>Full Name</th>
-                <th>Fvourite Artist</th>
+                <th>Favourite Artist</th>
                 <th>State of Origin</th>
                 <th>Number of Siblings</th>
                 <th>Gender</th>
@@ -29,9 +29,9 @@
             </tr>
             <!--            second person -->
             <tr>
-                <td>Full Name</td>
-                <td>Artist</td>
-                <td>State</td>
+                <td>Firstname Lastname</td>
+                <td>Artist Name</td>
+                <td>State Name</td>
                 <td>Number of Siblings</td>
                 <td><a class="btn btn__female">Female</a></td>
             </tr>
