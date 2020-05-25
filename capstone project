@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>TopHill Insurance</title>
+</head>
+<body>
+    <header>
+        <h1>TopHill Insurance</h1>
+    </header>
+    <img src="https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Adesanza's picture" height="400" width="60%">
+    <main>
+        <section>
+            <h2>WE ARE HERE FOR YOU</h2>
+            <p>TopHill Insurance plc is a composite Insurance company licensed to transact Life and Non-Life Insurance business in Nigeria, delivering a range of retail products such as Motor, Life,Home Insurance and corporate products to more than 30,000 customers..</p>
+
+            <p>Incorporated in 2000 as Assurance Company plc, the company was relaunched as <strong>Ensure Insurance</strong> plc in 2016. It was acquired in 2018 by TopHill and rebranded as TopHill Nigeria Insurance plc. In 2020, the company generated gross written premiums of <i>N7.67billion</i> representing an 86% growth over 2016 <i>(N4.19billion)</i>.
+            </p>
+        </section>
+
+        <section>
+            <p>Why insurance from TopHill Insurance?</p>
+
+            <ol>
+                <li>Pay same or less premium than buying directly from other insurance companies.</li>
+                <li>We give you unbiased comparison with no preference to any specific insurer.</li>
+                <li>
+                    When you purchase your insurance from us, you can also call us for help during claim.
+                </li>
+                <li>
+                   You can compare the premium and benefits offered by various companies in one place <a href="https://www.recipetineats.com/easy-soft-flatbread-yeast/">here</a> 
+                </li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>QUICK LINKS</h2>
+            <ul>
+                <li><a href="https://www.recipetineats.com/easy-soft-flatbread-yeast/">View Login Options for HillTop Insurance Accounts</a></li>
+                <li><a href="https://www.recipetineats.com/easy-soft-flatbread-yeast/">Register/Enroll for Online Access</a></li>
+                <li><a href="https://www.recipetineats.com/easy-soft-flatbread-yeast/">File a Life Insurance Claim</a></li>
+                <li><a href="https://www.recipetineats.com/easy-soft-flatbread-yeast/">COVID FAQ and Information</a></li>  
+            </ul>
+        </section>
+
+        <section>
+            <h2>LIST OF OUR BRANCHES YOU CAN VISIT IN LAGOS</h2>
+            <table>
+                <tr>
+                    <th>BRANCH</th>
+                    <th>ADDRESS</th>
+                    <th>CUSTOMER CARE NO</th>
+                </tr>
+                <tr>
+                    <td>IKEJA</td>
+                    <td>22, Omoborode street ikeja, LAGOS STATE</td>
+                    <td>080212121211, 01234567</td>
+                </tr>
+                <tr>
+                    <td>KOSOFE</td>
+                    <td>1, chrisville avenue, MAGODO KETU LAGOS STATE</td>
+                    <td>0812345600, 014567890</td>
+                </tr>
+                <tr>
+                    <td>IKORODU</td>
+                    <td>44, Mobolaji street, Ikorodu LAGOS STATE</td>
+                    <td>08022112322, 013344556</td>
+                </tr>
+                <tr>
+                    <td>MARYLAND</td>
+                    <td>18, Dayo omololu street off maryland mall LAGOS</td>
+                    <td>09034567811, 07088855678</td>
+                </tr>
+                <tr>
+                    <td>LEKKI</td>
+                    <td>56, Owodunni street, hilltop estate lekki, LAGOS STATE</td>
+                    <td>09032110911, 012300111</td>
+                </tr>
+            </table>
+        </section><br>
+
+        <hr>
+
+
+        <footer>
+            Hilltop Insurance plc. 2020. Authorised & Regulated by the National Insurance Commission RIC N0.028
+        </footer>
+    </main>
+
+</body>
+
+</html>
